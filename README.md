@@ -1,1 +1,1 @@
-# vaesen-latex-template
+# Vaesen LaTeX Template
