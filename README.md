@@ -8,6 +8,8 @@ This is a LaTeX document class designed to create game supplements for the Vaese
 ## Getting Started
 Clone this repository to use a local LaTeX installation or use an online environment like www.overleaf.com to create your own Vaesen hoebrew.
 
+The template can also viewed on Overleaf: https://www.overleaf.com/read/mpbbbrzjhvyb#58eb77
+
 ### Use Lua(La)TeX or Xe(La)TeX
 The document class must be compiled using LuaTeX or XeTeX for some of the packages, like `fontspec`, to work.
 
